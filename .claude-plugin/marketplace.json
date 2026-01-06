@@ -1,0 +1,17 @@
+{
+  "name": "basedpyright-lsp",
+  "owner": {
+    "name": "Tyler Laprade",
+    "email": "tyler@tylerlaprade.com"
+  },
+  "plugins": [
+    {
+      "name": "basedpyright-lsp",
+      "version": "1.0.0",
+      "source": ".",
+      "description": "Python language server using basedpyright for Claude Code",
+      "category": "development",
+      "tags": ["python", "lsp", "basedpyright", "type-checking"]
+    }
+  ]
+}
