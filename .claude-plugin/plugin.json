@@ -1,0 +1,13 @@
+{
+  "name": "basedpyright-lsp",
+  "version": "1.0.0",
+  "description": "Python language server using basedpyright for Claude Code",
+  "author": {
+    "name": "Tyler LaPrade"
+  },
+  "homepage": "https://github.com/tylerlaprade/basedpyright-lsp",
+  "repository": "https://github.com/tylerlaprade/basedpyright-lsp",
+  "license": "MIT",
+  "keywords": ["python", "lsp", "basedpyright", "type-checking"],
+  "lspServers": "./.lsp.json"
+}
