@@ -8,7 +8,7 @@
     {
       "name": "basedpyright-lsp",
       "version": "1.0.0",
-      "source": ".",
+      "source": "./",
       "description": "Python language server using basedpyright for Claude Code",
       "category": "development",
       "tags": ["python", "lsp", "basedpyright", "type-checking"]
