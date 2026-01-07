@@ -7,9 +7,7 @@ A Claude Code LSP plugin for Python using [basedpyright](https://github.com/Deta
 Install basedpyright:
 
 ```bash
-pip install basedpyright
-# or
-uv pip install basedpyright
+uv add basedpyright --dev
 ```
 
 ## Installation
